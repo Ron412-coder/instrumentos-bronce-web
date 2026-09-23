@@ -108,3 +108,19 @@ footer {
     margin-top: 40px;
     border-top: 3px solid #D4AF37;
 }
+body {
+    background-image: url("img/fondo.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.instrumento-img {
+    width: 100%;
+    max-width: 350px;
+    display: block;
+    margin: 15px auto;
+    border: 3px solid #D4AF37; /* dorado */
+    border-radius: 10px;
+    box-shadow: 0 0 15px #b30000; /* rojo glow */
+}

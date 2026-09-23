@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Instrumentos de Bronce</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="historia.html">Historia</a></li>
+                <li><a href="instrumentos.html">Instrumentos</a></li>
+                <li><a href="tecnica.html">Técnica</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Contacto</h2>
+        <p>Envíanos un mensaje completando el siguiente formulario:</p>
+
+        <form action="../php/procesar-form.php" method="POST">
+            <label>Nombre:</label><br>
+            <input type="text" name="nombre" required><br><br>
+
+            <label>Correo:</label><br>
+            <input type="email" name="correo" required><br><br>
+
+            <label>Mensaje:</label><br>
+            <textarea name="mensaje" rows="5" required></textarea><br><br>
+
+            <button type="submit">Enviar</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Proyecto Instrumentos de Bronce</p>
+    </footer>
+
+</body>
+</html>

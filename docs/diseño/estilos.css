@@ -1,0 +1,115 @@
+# Diseño Visual del Proyecto: Instrumentos de Bronce
+
+## 1. Paleta de colores
+
+El diseño del sitio utilizará una paleta inspirada en los instrumentos de bronce:
+
+- **Dorado (#D4AF37)** – Color principal, representa el metal de los instrumentos.
+- **Negro (#111111)** – Fondo principal, estilo elegante y musical.
+- **Blanco (#FFFFFF)** – Texto principal para buena legibilidad.
+- **Gris claro (#CCCCCC)** – Detalles y bordes.
+- **Azul suave (#3A6EA5)** – Color secundario para enlaces o botones.
+
+---
+
+## 2. Tipografía
+
+Se utilizarán fuentes claras y elegantes:
+
+- **Título:** "Georgia", serif  
+- **Texto general:** "Arial", sans-serif  
+- **Menú:** "Arial Black" o "Montserrat"
+
+---
+
+## 3. Estilo general del sitio
+
+El sitio tendrá un estilo:
+
+- elegante  
+- musical  
+- minimalista  
+- con contraste dorado sobre fondo oscuro  
+
+Características:
+
+- Fondos oscuros con texto claro.
+- Encabezados dorados.
+- Tarjetas con bordes suaves.
+- Imágenes centradas y con sombra ligera.
+
+---
+
+## 4. Diseño del menú de navegación
+
+El menú será horizontal, ubicado en la parte superior:
+
+- Fondo negro.
+- Texto blanco.
+- Hover dorado.
+- Separación entre elementos.
+- Fijo en la parte superior (opcional).
+
+Ejemplo conceptual:
+[ Inicio ] [ Historia ] [ Instrumentos ] [ Técnica ] [ Contacto ]
+
+
+---
+
+## 5. Diseño de las páginas internas
+
+### Página de inicio (index.html)
+- Imagen grande de instrumentos.
+- Título dorado.
+- Texto introductorio.
+- Botones hacia las secciones.
+
+### Página de historia
+- Texto justificado.
+- Imágenes pequeñas.
+- Línea de tiempo opcional.
+
+### Página de instrumentos
+- Tarjetas con:
+  - imagen
+  - nombre
+  - descripción
+- Fondo negro, borde dorado.
+
+### Página de técnica
+- Secciones:
+  - respiración
+  - embocadura
+  - mantenimiento
+- Iconos opcionales.
+
+### Página de contacto
+- Formulario simple:
+  - nombre
+  - correo
+  - mensaje
+- Botón dorado.
+
+---
+
+## 6. Diseño responsive
+
+El sitio debe adaptarse a móviles:
+
+- Menú colapsable.
+- Imágenes ajustadas.
+- Tarjetas en una sola columna.
+- Texto centrado.
+
+---
+
+## 7. Justificación del diseño
+
+El estilo dorado + negro representa:
+
+- elegancia  
+- música clásica  
+- instrumentos de bronce  
+
+Es un diseño profesional, claro y fácil de mantener.
+

@@ -1,3 +1,11 @@
+
+body {
+    background-image: url("img/fondo.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 /* ======== ESTILO GENERAL ======== */
 body {
     margin: 0;
@@ -6,13 +14,7 @@ body {
     background: #0a0a0a; /* negro más elegante */
     color: #f2f2f2; /* texto más claro */
 }
- {
-    background-image: url("img/fondo.png");
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-}
+
 /* ======== ENCABEZADO ======== */
 header {
     background: #000;
